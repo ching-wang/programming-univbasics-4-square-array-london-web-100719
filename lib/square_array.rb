@@ -5,7 +5,7 @@ def square_array(num)
    if num.index ** 2  === counter
    counter.push(new_array)
    counter += 1
-   end 
    return new_array
+   end 
  end
 end
