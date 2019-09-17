@@ -5,7 +5,7 @@ def square_array(num)
    if square_array([num]) === counter
    counter.push(new_array)
    counter += 1
-   return new_array
    end 
+   return new_array
  end
 end
